@@ -159,7 +159,3 @@ https://github.com/Ryshup/smart-bookmark-app
 Live URL:
 https://smart-bookmark-app-tan-alpha.vercel.app/
 
-
-Environment variables configured in Vercel:
-NEXT_PUBLIC_SUPABASE_URL
-NEXT_PUBLIC_SUPABASE_ANON_KEY
